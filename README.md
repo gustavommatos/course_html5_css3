@@ -1,28 +1,42 @@
 # Cursos de introdução a programação HTML5 e CSS3
-
-    • Objetivos
-        ○ Aprender a utilizar o HTML5
-        ○ Aprender a utilizar o CSS3
-        ○ Construir uma página com HTML5 e CSS3
-    
-    • Requisitos básicos
-        ○ Windows, Linux ou OSX
-        ○ Editor de texto
-        ○ GitHub
-    
-<hr></hr>
+<ul>
+<li>Objetivos</li>
+<ul type="circle">
+<li>Aprender a utilizar o HTML5</li>
+<li>Aprender a utilizar o CSS3</li>
+<li>Construir uma página com HTML5 e CSS3</li>
+</ul>
+</ul>
+<br>    
+<ul>
+<li>Requisitos básicos</li>
+<ul type="circle">
+<li>Windows, Linux ou OSX</li>
+<li>Editor de texto</li>
+<li>GitHub</li>
+</ul>
+</ul>
 
 # Ínicio
-
-    • Sobre o HTML5
-        ○ HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada para criação de páginas web;
-        ○ HTML5 é o padrão mais novo;
-        ○ No HTML5 foram introduzidos novos elementos que proporcionam suporte a maior interatividade com o usuário.
-    
-    • Na prática
-        ○ Instalei o editor de código fonte "Microsoft Visual Studio Code" para desenvolver a página.
-
-    • Estrutura básica de página em HTML e principais tags para iniciar um projeto
+<ul>
+<li>Sobre o HTML5</li>
+<ul type="circle">
+<li>HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada para criação de páginas web;</li>
+<li>HTML5 é o padrão mais novo;</li>
+<li>No HTML5 foram introduzidos novos elementos que proporcionam suporte a maior interatividade com o usuário.</li>
+</ul>
+</ul>
+<br>
+<ul>    
+<li>Na prática</li>
+<ul type="circle">
+<li>Instalei o editor de código fonte "Microsoft Visual Studio Code" para desenvolver a página.</li>
+</ul>
+</ul>
+<br>
+<ul>
+<li>Estrutura básica de página em HTML e principais tags para iniciar um projeto</li>
+</ul>
 
     <!DOCTYPE html>
     <html lang="pt-br">
